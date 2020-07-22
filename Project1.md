@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <h1>Forms Intro</h1>
+  <h1>Forms </h1>
   <h2>Text Input</h2>
   <input type="text" placeholder="Username" />
   <input type="text" placeholder="City" value="Panajachel" />
